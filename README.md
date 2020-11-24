@@ -23,7 +23,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 ## Official Resources
 
-* [Magento 2 code repository](https://github.com/magento/magento2) - Official Magento 2 GitHub repository
+* [Magento 2 code repository](https://gitxxxxxxhub.com/magento/magento2) - Official Magento 2 GitHub repository
 * [Magento Blog](https://magento.com/blog) - Get the latest news, tips and advice for maximizing your online store.
 * [Magento DevBlog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - The official Magento developers blog
-* [Magento Documentation and Resources](https://magento.com/technical-resources) - Everything you need to build and manage a customized Magento storefront
+* [Magento Documentation and Resources](https://magento.com/technical-resourcesxxxxx) - Everything you need to build and manage a customized Magento storefront
